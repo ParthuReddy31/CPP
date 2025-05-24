@@ -1,0 +1,36 @@
+1.	What is the difference between Function overloading and Function overriding
+2.	What is the difference between virtual pointer and virtual table
+3.	What is the difference between shallow copy and deep copy
+4.	What is difference between call by value, call by reference  and call by pointer
+5.	Learn Standard template libraries (Vector, list, Map, set, unorder map, unordered set)
+6.	Learn C++11 concepts and C++ threads, move schematics
+7.	Write your own string wrapper class in C++
+8.	How to find a loop in single linked list using C
+9.	How to find the middle node in a single linked list using C.
+10.	Learn Smart pointers and lamda functions
+11.	Difference between new() and malloc
+12.	Difference between delete and free
+13.	Difference between  macro and canst 
+14.	Understand the virtual functions
+15.	Understand the exception handling
+16.	Understand the virtual  destructor 
+17.	Understand the Makefile and GDB
+18.	Understand the Git and confluence
+19.	How do you assign unique pointer to a ->different object ?
+
+Os Concepts
+1.	Multithreading, mutex and semaphores, mutex conditional variable 
+2.	Inter process concepts (Message queues, Shared memory, pips and Fifo)
+3.	Print the add numbers by 1 thread and even numbers by another thread by creating 2 threads using C++ threads
+4.	Linux commands (ls, ps, top, cat, grep, mv, rm, touch, chmod, find, vim editor, cd, mkdir )
+5.	Explain about process  and threads, and diffrences
+6.	What happens when two threads try to ->access same resource at the same time ?
+7.	How do we prevent deadlock ?
+8.	Explain mutual exclusion
+9.	What is volatile?
+
+Network concepts:
+
+1.	Difference between TCP and UDP
+2.	Learn the TCP server and client system calls
+3.  Learn the UDP server and Client system calls
