@@ -1,7 +1,7 @@
 1.	What is the difference between Function overloading and Function overriding
 2.	What is the difference between virtual pointer and virtual table
 3.	What is the difference between shallow copy and deep copy
-4.	What is difference between call by value, call by reference  and call by pointer
+4.	What is difference between call by value, call by reference and call by pointer
 5.	Learn Standard template libraries (Vector, list, Map, set, unorder map, unordered set)
 6.	Learn C++11 concepts and C++ threads, move schematics
 7.	Write your own string wrapper class in C++
