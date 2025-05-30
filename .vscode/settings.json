@@ -48,6 +48,8 @@
         "vector": "cpp",
         "algorithm": "cpp",
         "list": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "charconv": "cpp",
+        "map": "cpp"
     }
 }
